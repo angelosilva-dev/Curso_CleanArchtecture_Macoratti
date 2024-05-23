@@ -1,0 +1,30 @@
+1 - Criar no projeto Domain as pastas:
+    - Entities - para criação do modelos/Entidades de négocio.
+    - Interfaces - para criação dos contratos dos repositorios que deverão ser implementados.
+    - Validation - para criação das regras de validação dos modelos de dominios.
+
+2 - Ao criar as classes de dominio na pasta Entities, deveremos seguir as regras de modelagem de Dominios Ricos/Não anêmico:
+    - Classe com a definição sealed.
+      Ex: public sealed class Category
+
+    - Propriedades com setters privados.
+      Ex: public string Name { get; private set; }
+
+    - Construtores parametrizados.
+      Ex:
+        public Category(int id, string name)
+        {
+            id = id;
+            ValidateDomain(name);
+        }
+
+    - Definição de uma classe base de entidade - Com propriedades em comum entre os dominios como por exemplo: Id.
+
+    - Definição de validação de modelo.
+      Ex: Criar metodo de validação que utilizará Exceptions customizadas criadas na pasta Validation.
+    
+    - Definição de Interfaces para os Repositorios.
+
+    - Realização de testes de unidades para o projeto de Domain.
+    
+     

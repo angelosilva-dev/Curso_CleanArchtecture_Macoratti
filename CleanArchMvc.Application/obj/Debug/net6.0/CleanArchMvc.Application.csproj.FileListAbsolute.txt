@@ -1,0 +1,15 @@
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.deps.json
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.AssemblyInfo.cs
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.csproj.CopyComplete
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\refint\CleanArchMvc.Application.dll
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Dev\Curso_CleanArchtecture_Macoratti\CleanArchMvc.Application\obj\Debug\net6.0\ref\CleanArchMvc.Application.dll
